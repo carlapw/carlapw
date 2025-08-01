@@ -5,7 +5,7 @@
 ## 💻 Sobre mim
 
 - 🚀 Apaixonada por tecnologia e desenvolvimento web
-- 📚 Estudando **Node.js**, **NestJS**, **HTML**, **CSS**, **JavaScript** e **postgreSQL**
+- 📚 Estudando **Node.js**, **NestJS**, **HTML**, **CSS**, **JavaScript** e **PostgreSQL**
 - 🛠️ Praticando com projetos reais e sempre buscando evoluir
 - 💡 Foco em backend e aplicações web completas
 
