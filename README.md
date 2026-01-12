@@ -37,4 +37,4 @@ API desenvolvida com **NestJS**, seguindo boas práticas de organização e estr
 ---
 
 ## 📫 Onde me encontrar
-- LinkedIn: [seu link]
+- LinkedIn: www.linkedin.com/in/carla-matos-05974b32b
